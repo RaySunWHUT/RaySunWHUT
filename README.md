@@ -12,20 +12,6 @@
   <img src="https://img.shields.io/badge/Company-Alibaba-FF6A00?style=flat-square&logo=alibaba&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Hangzhou%2C%20China-brightgreen?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
-
-<!-- 社交媒体链接 -->
-<p>
-  <a href="https://github.com/RaySunWHUT">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:sr453608@alibaba-inc.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/raysun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -33,7 +19,7 @@
 ## 🙋 About Me
 
 ```python
-class RaySun:
+class RayS
     def __init__(self):
         self.name       = "Ray Sun"
         self.username   = "RaySunWHUT"
@@ -97,14 +83,6 @@ me.say_hi()
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 </div>
 
 ---
@@ -133,8 +111,6 @@ me.say_hi()
 <div align="center">
 
 **Let's connect and build something amazing together!**
-
-[![Email](https://img.shields.io/badge/Email-sr453608@alibaba--inc.com-red?style=flat-square&logo=gmail)](mailto:sr453608@alibaba-inc.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RaySunWHUT-black?style=flat-square&logo=github)](https://github.com/RaySunWHUT)
 
 </div>

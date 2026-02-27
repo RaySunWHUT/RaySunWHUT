@@ -1,13 +1,13 @@
-<!-- 波浪背景 + 打字动效 -->
+<!-- 纯渐变背景 + 下方打字动效 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=RaySun&reversal=false&textBg=false&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=&reversal=false&textBg=false" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,I'm+Ray+Sun;Welcome+to+my+GitHub+Profile!" />
 </p>
 
-<!-- GitHub Stats 和 Most Used Languages 并排 - 基于实际数据 -->
+<!-- GitHub Stats 和 Most Used Languages 并排 -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true&theme=radical" />

@@ -13,10 +13,9 @@
   <img src="https://img.shields.io/badge/Location-Hangzhou%2C+China-brightgreen?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
-<!-- GitHub Stats 和 Most Used Languages 并排 -->
+<!-- GitHub 贡献统计 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
+  <img src="https://github-contributions.vercel.app/api?username=RaySunWHUT&theme=github" />
 </p>
 
 <!-- 贡献蛇 -->

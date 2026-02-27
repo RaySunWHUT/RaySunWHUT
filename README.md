@@ -1,10 +1,16 @@
-<!-- 纯渐变背景 + 下方打字动效 -->
+<!-- 打字动画标题 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=&reversal=false&textBg=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
+<!-- 个人简介徽章栏 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,I'm+Ray+Sun;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://komarev.com/ghpvc/?username=RaySunWHUT&color=58a6ff&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/RaySunWHUT?tab=followers">
+    <img src="https://img.shields.io/github/followers/RaySunWHUT?label=Followers&style=flat-square&color=58a6ff" />
+  </a>
+  <img src="https://img.shields.io/badge/Company-Alibaba-FF6A00?style=flat-square&logo=alibaba&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Hangzhou%2C+China-brightgreen?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
 <!-- GitHub Stats 和 Most Used Languages 并排 -->

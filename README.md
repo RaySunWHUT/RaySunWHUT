@@ -16,35 +16,15 @@
 
 ---
 
-## 🙋 About Me
-
-```python
-class RayS
-    def __init__(self):
-        self.name       = "Ray Sun"
-        self.username   = "RaySunWHUT"
-        self.location   = "Hangzhou, China"
-        self.company    = "Alibaba"
-        self.motto      = "惜取少年时 | Cherish Youth"
-        self.interests  = ["Deep Learning", "AI", "Open Source"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = RaySun()
-me.say_hi()
-```
-
----
-
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaySunWHUT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaySunWHUT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaySunWHUT&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaySunWHUT&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 ---
@@ -52,7 +32,11 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaySunWHUT&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/58A6FF/RaySunWHUT" alt="RaySunWHUT's Github chart" style="max-width: 100%; height: auto;" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaySunWHUT&theme=tokyo-night&hide_border=true&area=true&background=0d1117&line=58a6ff&point=ffffff&color=c9d1d9" />
 </div>
 
 ---
@@ -84,7 +68,7 @@ me.say_hi()
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://wakatime.com/share/@RaySunWHUT/018e9c5c-1f5e-4c0f-9b5e-8c5f5e5c5e5c.svg" />
+  <img src="https://wakatime.com/share/@RaySunWHUT/018e9c5c-1f5e-4c0f-9b5e-8c5f5e5c5e5c.svg" style="max-width: 800px; width: 100%;" />
 </div>
 
 ---
@@ -92,7 +76,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RaySunWHUT/RaySunWHUT/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RaySunWHUT/RaySunWHUT/output/github-contribution-grid-snake.svg" alt="contribution snake" style="max-width: 100%; height: auto;" />
 </div>
 
 ---

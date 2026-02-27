@@ -15,8 +15,8 @@
 
 <!-- GitHub Stats 和 Most Used Languages 并排 -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
 </p>
 
 <!-- 贡献蛇 -->

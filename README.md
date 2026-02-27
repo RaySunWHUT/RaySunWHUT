@@ -1,22 +1,16 @@
-<!-- 打字动画标题 + 波浪背景 -->
+<!-- 波浪背景 + 打字动效 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=RaySun&section=header&reversal=false&textBg=false&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=RaySun&reversal=false&textBg=false&fontAlignY=36" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,I'm+Ray+Sun;Welcome+to+my+GitHub+Profile!" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,I'm+Ray+Sun;Welcome+to+my+GitHub+Profile!" />
 </p>
 
+<!-- GitHub Stats 和 Most Used Languages 并排 - 基于实际数据 -->
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=python,java,typescript,go,react,vue,spring,tensorflow,pytorch&theme=light" />
-</p>
-
-<!-- GitHub Stats 和 Most Used Languages 并排 -->
-<p align="center">
-  <img align="center" src="https://readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&include_all_commits=true&hide_border=true&show_icons=true" />
-  <img align="center" src="https://readme-stats.vercel.app/api/top-langs?username=RaySunWHUT&theme=transparent&layout=compact&count_private=false&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaySunWHUT&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true&theme=radical" />
 </p>
 
 <!-- 贡献蛇 -->

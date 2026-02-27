@@ -1,0 +1,6 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天自动更新
+  workflow

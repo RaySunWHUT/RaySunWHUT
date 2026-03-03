@@ -1,6 +1,6 @@
 <!-- 打字动画标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!-- 个人简介徽章栏 -->
@@ -13,10 +13,22 @@
   <img src="https://img.shields.io/badge/Location-Hangzhou%2C+China-brightgreen?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
-<!-- GitHub Stats 和 Most Used Languages 并排 -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://stats.enterhistory.icu/api?username=RaySunWHUT&show_icons=true&hide_border=true" />
+</p>
+
+<!-- Streak Stats 和 Most Used Languages 并排 -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaySunWHUT&hide_border=true" />
   <img src="https://stats.enterhistory.icu/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
+</p>
+
+<!-- Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RaySunWHUT&theme=onedark&no-frame=true&no-bg=true&column=7" width="800" />
+  </a>
 </p>
 
 <!-- 贡献蛇 -->

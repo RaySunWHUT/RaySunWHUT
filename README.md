@@ -19,13 +19,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaySunWHUT&hide_border=true" />
 </p>
 
-<!-- WakaTime 和 Most Used Languages 并排 -->
-<p align="center">
-  <img height="165" src="https://stats.enterhistory.icu/api/wakatime?username=RaySunWHUT&layout=compact&hide_border=true&v=2" />
-  <img height="165" src="https://stats.enterhistory.icu/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true&v=2" />
-</p>
-
-
 <!--贡献蛇 -->
 <p align="center">
   <picture>
@@ -34,6 +27,13 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/RaySunWHUT/RaySunWHUT/output/github-snake.svg" />
   </picture>
 </p>
+
+<!-- WakaTime 和 Most Used Languages 并排 -->
+<p align="center">
+  <img height="165" src="https://stats.enterhistory.icu/api/wakatime?username=RaySunWHUT&layout=compact&hide_border=true&v=2" />
+  <img height="165" src="https://stats.enterhistory.icu/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true&v=2" />
+</p>
+
 
 
 <!-- Metrics -->

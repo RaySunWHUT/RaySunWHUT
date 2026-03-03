@@ -24,13 +24,19 @@
   <img src="https://stats.enterhistory.icu/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
 </p>
 
-<!-- 贡献蛇 -->
+<!-- 贡献蛇 (已注释)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaySunWHUT/RaySunWHUT/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaySunWHUT/RaySunWHUT/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/RaySunWHUT/RaySunWHUT/output/github-snake.svg" />
   </picture>
+</p>
+-->
+
+<!-- Metrics -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/RaySunWHUT?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.skip=false&config.timezone=Asia%2FShanghai" />
 </p>
 
 <!-- 活动图表 -->

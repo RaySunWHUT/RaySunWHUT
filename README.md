@@ -24,13 +24,6 @@
   <img src="https://stats.enterhistory.icu/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
 </p>
 
-<!-- Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RaySunWHUT&theme=onedark&no-frame=true&no-bg=true&column=7" width="800" />
-  </a>
-</p>
-
 <!-- 贡献蛇 -->
 <p align="center">
   <picture>
